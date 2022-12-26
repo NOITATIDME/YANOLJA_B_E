@@ -14,7 +14,7 @@ public class YanulljaApplication {
 	}
 
 	static void home() {
-		System.out.println("...............................................");
+
 		System.out.println(".................... Start ....................");
 		System.out.println("...............................................");
 	}

@@ -10,7 +10,7 @@ public class YanulljaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(YanulljaApplication.class, args);
-		home();
+		home(); // 테스트용 주석
 	}
 
 	static void home() {

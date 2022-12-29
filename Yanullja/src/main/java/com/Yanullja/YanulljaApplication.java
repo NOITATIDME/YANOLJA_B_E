@@ -16,7 +16,7 @@ public class YanulljaApplication {
 	static void home() {
 
 		System.out.println("...............................................");
-//		System.out.println("    111ㅂㅂㅂㅂ  ");
+//		System.out.println("    111ㅂㅂㅂㅂㅂㅂㅂ  ");
 		System.out.println("...............................................");
 	}
 }

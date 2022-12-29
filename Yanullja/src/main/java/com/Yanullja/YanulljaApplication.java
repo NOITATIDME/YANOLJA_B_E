@@ -16,7 +16,7 @@ public class YanulljaApplication {
 	static void home() {
 
 		System.out.println("...............................................");
-//		System.out.println("    TEST!!!!!!!      ");//
+//		System.out.println("    TEST 2022-12-29 박가람      ");//
 		System.out.println("...............................................");
 	}
 }
